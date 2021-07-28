@@ -1,3 +1,3 @@
 # Python_test
-### it appears variables don't need a "var =" and are specified automatically
-### lotta code regards the console
+### just a buncha example code
+### lot of it regards the console
