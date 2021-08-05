@@ -1,4 +1,3 @@
-class doll:
-    def __init__(self, hair, shoes):
-        self.hair = hair
-        self.shoes = shoes
+from doll import doll
+doll1 = doll("blonde", "heels")
+print(doll1.hair)
